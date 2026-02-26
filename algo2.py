@@ -1,5 +1,5 @@
 #Design an algorithm that returns the index of the preferred starting city.
-#By: Group 10 - Tristan Caluag, Ton Chhin, Kenneth Cho, Kenneth Ly
+#By: Group 10 - Tristan Caluag, Tong Chhin, Kenneth Cho, Kenneth Ly
 
 distance= [5, 25, 15, 10, 15]
 fuel = [1, 2, 1, 0, 3]
