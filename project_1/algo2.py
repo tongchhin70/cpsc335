@@ -24,6 +24,3 @@ def fuel_distance(dist, gas, mpg):
 preferred_city = fuel_distance(distance, fuel, mpg)
 
 print(f"Preferred Start City:{preferred_city}\n")
-
-
-
